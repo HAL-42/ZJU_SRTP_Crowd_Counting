@@ -1,0 +1,5 @@
+/data1/xiaobo/crowd_net/data/dcc_crowdnet/train_0.h5
+/data1/xiaobo/crowd_net/data/dcc_crowdnet/train_7000.h5
+/data1/xiaobo/crowd_net/data/dcc_crowdnet/train_14000.h5
+/data1/xiaobo/crowd_net/data/dcc_crowdnet/train_21000.h5
+/data1/xiaobo/crowd_net/data/dcc_crowdnet/train_28000.h5

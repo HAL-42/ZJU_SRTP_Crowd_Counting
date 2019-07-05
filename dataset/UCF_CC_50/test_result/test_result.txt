@@ -1,0 +1,253 @@
+Testing Result Recorded at: 2019-05-19 10:21:36
+Image at ../dataset/UCF_CC_50/15.jpg has test result below: 
+predict_count=2299.4211
+gt_count=1534.7075
+AE=764.7136     SE=584786.925273478
+relative error=0.49827972
+Image at ../dataset/UCF_CC_50/47.jpg has test result below: 
+predict_count=2880.7668
+gt_count=1933.1621
+AE=947.60474     SE=897954.7363114953
+relative error=0.4901838
+Image at ../dataset/UCF_CC_50/4.jpg has test result below: 
+predict_count=115.979996
+gt_count=91.18518
+AE=24.794815     SE=614.7828540320043
+relative error=0.27191716
+Image at ../dataset/UCF_CC_50/27.jpg has test result below: 
+predict_count=1864.541
+gt_count=1850.3655
+AE=14.175537     SE=200.94585233926773
+relative error=0.007660939
+Image at ../dataset/UCF_CC_50/45.jpg has test result below: 
+predict_count=2732.7979
+gt_count=1416.1012
+AE=1316.6967     SE=1733690.0820082575
+relative error=0.9298041
+Image at ../dataset/UCF_CC_50/14.jpg has test result below: 
+predict_count=2609.2756
+gt_count=2949.5947
+AE=340.3191     SE=115817.08424144983
+relative error=0.11537825
+Image at ../dataset/UCF_CC_50/35.jpg has test result below: 
+predict_count=1312.8209
+gt_count=1041.9052
+AE=270.91577     SE=73395.3552389741
+relative error=0.2600196
+Image at ../dataset/UCF_CC_50/12.jpg has test result below: 
+predict_count=1130.7686
+gt_count=578.5622
+AE=552.20636     SE=304931.8638734557
+relative error=0.95444596
+Image at ../dataset/UCF_CC_50/13.jpg has test result below: 
+predict_count=1254.5914
+gt_count=721.2669
+AE=533.3245     SE=284435.0478206612
+relative error=0.7394274
+Image at ../dataset/UCF_CC_50/23.jpg has test result below: 
+predict_count=906.35425
+gt_count=672.40216
+AE=233.95209     SE=54733.57919991389
+relative error=0.34793475
+Image at ../dataset/UCF_CC_50/29.jpg has test result below: 
+predict_count=1720.7631
+gt_count=1577.3234
+AE=143.4397     SE=20574.946751654148
+relative error=0.09093867
+Image at ../dataset/UCF_CC_50/20.jpg has test result below: 
+predict_count=2587.3398
+gt_count=2661.1443
+AE=73.80444     SE=5447.0958595871925
+relative error=0.0277341
+Image at ../dataset/UCF_CC_50/46.jpg has test result below: 
+predict_count=1873.2117
+gt_count=1335.7067
+AE=537.505     SE=288911.6302740723
+relative error=0.40241247
+Image at ../dataset/UCF_CC_50/5.jpg has test result below: 
+predict_count=1268.8489
+gt_count=466.31775
+AE=802.5311     SE=644056.2112960964
+relative error=1.7209963
+Image at ../dataset/UCF_CC_50/32.jpg has test result below: 
+predict_count=499.1532
+gt_count=542.02374
+AE=42.870544     SE=1837.883580032736
+relative error=0.07909348
+Image at ../dataset/UCF_CC_50/38.jpg has test result below: 
+predict_count=1504.3252
+gt_count=420.36868
+AE=1083.9565     SE=1174961.7870447636
+relative error=2.5785854
+Image at ../dataset/UCF_CC_50/26.jpg has test result below: 
+predict_count=2301.9539
+gt_count=2369.2266
+AE=67.272705     SE=4525.616848528385
+relative error=0.028394373
+Image at ../dataset/UCF_CC_50/9.jpg has test result below: 
+predict_count=2979.973
+gt_count=3389.6948
+AE=409.72192     SE=167872.05486541986
+relative error=0.1208728
+Image at ../dataset/UCF_CC_50/36.jpg has test result below: 
+predict_count=1901.1742
+gt_count=2091.44
+AE=190.26575     SE=36201.05450822413
+relative error=0.09097356
+Image at ../dataset/UCF_CC_50/18.jpg has test result below: 
+predict_count=903.58105
+gt_count=675.6743
+AE=227.90674     SE=51941.481353998184
+relative error=0.33730265
+Image at ../dataset/UCF_CC_50/24.jpg has test result below: 
+predict_count=1744.5049
+gt_count=1550.2421
+AE=194.26282     SE=37738.04221750796
+relative error=0.12531129
+Image at ../dataset/UCF_CC_50/33.jpg has test result below: 
+predict_count=707.19354
+gt_count=294.1067
+AE=413.08685     SE=170640.7481440343
+relative error=1.4045476
+Image at ../dataset/UCF_CC_50/49.jpg has test result below: 
+predict_count=2095.5662
+gt_count=568.26526
+AE=1527.3009     SE=2332648.0492830426
+relative error=2.687655
+Image at ../dataset/UCF_CC_50/39.jpg has test result below: 
+predict_count=1259.9634
+gt_count=150.17715
+AE=1109.7863     SE=1231625.5315268189
+relative error=7.3898473
+Image at ../dataset/UCF_CC_50/31.jpg has test result below: 
+predict_count=2748.4626
+gt_count=1982.3372
+AE=766.1255     SE=586948.2637941837
+relative error=0.38647586
+Image at ../dataset/UCF_CC_50/41.jpg has test result below: 
+predict_count=1989.0907
+gt_count=1256.4633
+AE=732.62744     SE=536742.9679014683
+relative error=0.583087
+Image at ../dataset/UCF_CC_50/1.jpg has test result below: 
+predict_count=4316.4707
+gt_count=4582.24
+AE=265.76953     SE=70633.44374084473
+relative error=0.057999913
+Image at ../dataset/UCF_CC_50/25.jpg has test result below: 
+predict_count=686.12445
+gt_count=882.49304
+AE=196.36859     SE=38560.62365252152
+relative error=0.22251573
+Image at ../dataset/UCF_CC_50/7.jpg has test result below: 
+predict_count=1142.6687
+gt_count=624.8256
+AE=517.8431     SE=268161.454067681
+relative error=0.8287802
+Image at ../dataset/UCF_CC_50/19.jpg has test result below: 
+predict_count=711.6553
+gt_count=747.48267
+AE=35.827393     SE=1283.6020589470863
+relative error=0.047930732
+Image at ../dataset/UCF_CC_50/6.jpg has test result below: 
+predict_count=1296.968
+gt_count=2539.5737
+AE=1242.6057     SE=1544068.9577084184
+relative error=0.48929697
+Image at ../dataset/UCF_CC_50/16.jpg has test result below: 
+predict_count=720.2671
+gt_count=195.5872
+AE=524.6799     SE=275288.96661857143
+relative error=2.6825879
+Image at ../dataset/UCF_CC_50/10.jpg has test result below: 
+predict_count=1028.923
+gt_count=696.2654
+AE=332.6576     SE=110661.07402981818
+relative error=0.47777414
+Image at ../dataset/UCF_CC_50/22.jpg has test result below: 
+predict_count=768.75195
+gt_count=947.6373
+AE=178.88538     SE=31999.977738276124
+relative error=0.18876988
+Image at ../dataset/UCF_CC_50/11.jpg has test result below: 
+predict_count=760.1365
+gt_count=482.99075
+AE=277.14572     SE=76809.75091002975
+relative error=0.57381165
+Image at ../dataset/UCF_CC_50/3.jpg has test result below: 
+predict_count=3463.5913
+gt_count=2307.343
+AE=1156.2483     SE=1336910.1104765534
+relative error=0.50111675
+Image at ../dataset/UCF_CC_50/48.jpg has test result below: 
+predict_count=2235.804
+gt_count=2349.4187
+AE=113.614746     SE=12908.31052994728
+relative error=0.048358664
+Image at ../dataset/UCF_CC_50/34.jpg has test result below: 
+predict_count=1612.0535
+gt_count=1107.8567
+AE=504.19678     SE=254214.390283823
+relative error=0.4551101
+Image at ../dataset/UCF_CC_50/37.jpg has test result below: 
+predict_count=1900.2291
+gt_count=906.81665
+AE=993.4125     SE=986868.3466497809
+relative error=1.0954943
+Image at ../dataset/UCF_CC_50/17.jpg has test result below: 
+predict_count=1019.2777
+gt_count=356.9528
+AE=662.32495     SE=438674.3409448266
+relative error=1.8554974
+Image at ../dataset/UCF_CC_50/43.jpg has test result below: 
+predict_count=960.1529
+gt_count=939.115
+AE=21.037903     SE=442.5933555699885
+relative error=0.02240184
+Image at ../dataset/UCF_CC_50/44.jpg has test result below: 
+predict_count=3913.8572
+gt_count=2329.0996
+AE=1584.7576     SE=2511456.550472319
+relative error=0.6804164
+Image at ../dataset/UCF_CC_50/2.jpg has test result below: 
+predict_count=2576.6753
+gt_count=1905.2394
+AE=671.4359     SE=450826.1853815466
+relative error=0.3524155
+Image at ../dataset/UCF_CC_50/8.jpg has test result below: 
+predict_count=1472.8333
+gt_count=1037.3302
+AE=435.50305     SE=189662.9080903679
+relative error=0.41983068
+Image at ../dataset/UCF_CC_50/21.jpg has test result below: 
+predict_count=976.6093
+gt_count=369.7672
+AE=606.8421     SE=368257.3368214108
+relative error=1.6411463
+Image at ../dataset/UCF_CC_50/42.jpg has test result below: 
+predict_count=633.0642
+gt_count=315.8163
+AE=317.2479     SE=100646.22642960493
+relative error=1.0045329
+Image at ../dataset/UCF_CC_50/40.jpg has test result below: 
+predict_count=2254.4084
+gt_count=1019.9928
+AE=1234.4156     SE=1523781.9955183417
+relative error=1.21022
+Image at ../dataset/UCF_CC_50/50.jpg has test result below: 
+predict_count=685.8777
+gt_count=434.87347
+AE=251.00421     SE=63003.114153478295
+relative error=0.5771891
+Image at ../dataset/UCF_CC_50/28.jpg has test result below: 
+predict_count=1711.9724
+gt_count=1704.8434
+AE=7.1290283     SE=50.823044791817665
+relative error=0.0041816323
+Image at ../dataset/UCF_CC_50/30.jpg has test result below: 
+predict_count=885.4358
+gt_count=244.895
+AE=640.5408     SE=410292.4799337983
+relative error=2.615573
+MAE=521.8533
+MSE=669.4579498450183

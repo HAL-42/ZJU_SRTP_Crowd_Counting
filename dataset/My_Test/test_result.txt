@@ -1,0 +1,42 @@
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:26:57
+Test img hz_back1.jpg has density count of:6247.7173
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:27:15
+Test img hz_front1.jpg has density count of:2756.7458
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:27:29
+Test img hz_front2.jpg has density count of:3354.9583
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:27:43
+Test img hz_front3.jpg has density count of:5761.262
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:27:47
+Test img jfj1.jpg has density count of:2065.1807
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:27:52
+Test img jfj2.jpg has density count of:1213.4537
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:27:57
+Test img Emperor.png has density count of:130.09961
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:28:03
+Test img Gettysburg1.png has density count of:2490.1145
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:28:09
+Test img Gettysburg2.png has density count of:1405.8995
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:28:14
+Test img Howls.png has density count of:1443.9934
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:28:19
+Test img Robot1.png has density count of:355.01797
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-20 02:28:25
+Test img Robot2.png has density count of:1730.664
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-30 14:00:19
+Test img hz_back1.jpg has density count of:6247.7173
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-05-30 14:02:16
+Test img tq.jpg has density count of:2350.0864
